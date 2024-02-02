@@ -35,7 +35,7 @@ public class ListaCursosProfessores {
                     System.out.print("Informe o professor: ");
                     String prof = entrada.next();
                     System.out.print("\n");
-                    listaCurso.add(prof);
+                    listaProf.add(prof);
                     break;
 
                 case 0:
